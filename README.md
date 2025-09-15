@@ -6,3 +6,5 @@
 | [0090](https://github.com/et0/CodeRun/blob/master/middle/0090/solution.go) | - | two pointers|
 | [0093](https://github.com/et0/CodeRun/blob/master/easy/0093/solution.go) | - | two pointers|
 | [0096](https://github.com/et0/CodeRun/blob/master/easy/0096/solution.go) | - | hash table, two pointers|
+| [0128](https://github.com/et0/CodeRun/blob/master/middle/0128/solution.go) | - | hash table, DFS, tree |
+| [0129](https://github.com/et0/CodeRun/blob/master/easy/0129/solution.go) | - | hash table, DFS, tree |
