@@ -7,5 +7,6 @@
 | [0093](https://github.com/et0/CodeRun/blob/master/easy/0093/solution.go) | - | two pointers|
 | [0096](https://github.com/et0/CodeRun/blob/master/easy/0096/solution.go) | - | hash table, two pointers|
 | [0120](https://github.com/et0/CodeRun/blob/master/easy/0120/solution.go) | Подсчёт высоты в бинарном дереве | binary search tree |
+| [0121](https://github.com/et0/CodeRun/blob/master/easy/0121/solution.go) | Подсчёт высоты при вставке элемента в бинарном дереве | binary search tree |
 | [0128](https://github.com/et0/CodeRun/blob/master/middle/0128/solution.go) | - | hash table, DFS, tree |
 | [0129](https://github.com/et0/CodeRun/blob/master/easy/0129/solution.go) | - | hash table, DFS, tree |
