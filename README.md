@@ -11,5 +11,6 @@
 | [0124](https://github.com/et0/CodeRun/blob/master/easy/0124/solution.go) | Вывести все листья | binary search tree |
 | [0125](https://github.com/et0/CodeRun/blob/master/easy/0125/solution.go) | Вывести вершины с двумя ветками | binary search tree |
 | [0126](https://github.com/et0/CodeRun/blob/master/easy/0126/solution.go) | Вывести вершины только с одним потомком | binary search tree |
+| [0127](https://github.com/et0/CodeRun/blob/master/easy/0127/solution.go) | Проверка АВЛ-сбалансированность | binary search tree |
 | [0128](https://github.com/et0/CodeRun/blob/master/middle/0128/solution.go) | - | hash table, DFS, tree |
 | [0129](https://github.com/et0/CodeRun/blob/master/easy/0129/solution.go) | - | hash table, DFS, tree |
