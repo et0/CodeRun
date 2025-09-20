@@ -1,4 +1,4 @@
-package main
+package main // https://coderun.yandex.ru/problem/branches-conclusion
 
 import (
 	"bufio"
