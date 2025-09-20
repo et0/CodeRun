@@ -9,6 +9,7 @@
 | [0120](https://github.com/et0/CodeRun/blob/master/easy/0120/solution.go) | Подсчёт высоты в бинарном дереве | binary search tree |
 | [0121](https://github.com/et0/CodeRun/blob/master/easy/0121/solution.go) | Подсчёт высоты при вставке элемента в бинарном дереве | binary search tree |
 | [0124](https://github.com/et0/CodeRun/blob/master/easy/0124/solution.go) | Вывести все листья | binary search tree |
-| [0125](https://github.com/et0/CodeRun/blob/master/easy/0125/solution.go) | Вывести вершины с двумя ветками| binary search tree |
+| [0125](https://github.com/et0/CodeRun/blob/master/easy/0125/solution.go) | Вывести вершины с двумя ветками | binary search tree |
+| [0126](https://github.com/et0/CodeRun/blob/master/easy/0126/solution.go) | Вывести вершины только с одним потомком | binary search tree |
 | [0128](https://github.com/et0/CodeRun/blob/master/middle/0128/solution.go) | - | hash table, DFS, tree |
 | [0129](https://github.com/et0/CodeRun/blob/master/easy/0129/solution.go) | - | hash table, DFS, tree |
