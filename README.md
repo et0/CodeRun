@@ -8,6 +8,7 @@
 | [0096](https://github.com/et0/CodeRun/blob/master/easy/0096/solution.go) | - | hash table, two pointers|
 | [0120](https://github.com/et0/CodeRun/blob/master/easy/0120/solution.go) | Подсчёт высоты в бинарном дереве | binary search tree |
 | [0121](https://github.com/et0/CodeRun/blob/master/easy/0121/solution.go) | Подсчёт высоты при вставке элемента в бинарном дереве | binary search tree |
+| [0122](https://github.com/et0/CodeRun/blob/master/middle/0122/solution.go) | Поиск второго максимального элемента | binary search tree |
 | [0123](https://github.com/et0/CodeRun/blob/master/middle/0123/solution.go) | Обход дерева в порядке возрастания элементов | binary search tree |
 | [0124](https://github.com/et0/CodeRun/blob/master/easy/0124/solution.go) | Вывести все листья | binary search tree |
 | [0125](https://github.com/et0/CodeRun/blob/master/easy/0125/solution.go) | Вывести вершины с двумя ветками | binary search tree |
