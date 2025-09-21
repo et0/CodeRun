@@ -1,5 +1,6 @@
 | Ссылка | Описание | Tags |
 | :------- | :------ | :------- |
+| [0052](https://github.com/et0/CodeRun/blob/master/easy/0052solution.go) | - | hash table |
 | [0060](https://github.com/et0/CodeRun/blob/master/easy/0060/solution.go) | - | two pointers|
 | [0061](https://github.com/et0/CodeRun/blob/master/easy/0061/solution.go) | - | two pointers|
 | [0070](https://github.com/et0/CodeRun/blob/master/easy/0070/solution.go) | - | two pointers|
